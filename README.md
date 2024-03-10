@@ -4,7 +4,7 @@
 
 <img align="right" width=400px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AnoxDx!;I'm+a+learning+developer...;I'm+a+CA+Aspirant+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AnoxDx!;I'm+a+learning+developer...;I'm+a+CA+Aspirant;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 ```python
   class WhoAmI:
